@@ -6,5 +6,5 @@
 
 The Game Developers' Association! A group operating largely out of the University of Florida committed to education and career development related to game dev!
 
-On Github we currently are developing Super Florida Man, a 3D Platformer/Collectathon developed in Unreal Engine. Additionally, internally we are developing a website, a Discord bot, and a corresponding API.
+On Github we currently are developing Super Florida Man, a 3D Platformer/Collectathon developed in Unreal Engine. We are also internally developing a website, a Discord bot, and a corresponding API.
 
