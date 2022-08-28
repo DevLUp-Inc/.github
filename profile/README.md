@@ -1,4 +1,4 @@
-# Welcome to DevLUp!
+# We are DevLUp!
 
 [![DevLUp Discord](https://img.shields.io/discord/521957275204845578?color=7289dA&label=DevLUp%20UF%20Discord&logo=discord&logoColor=white)]([https://discord.gg/3pmt6vCKeX](https://devlup.org/r/discord))
 [![Development Feedback](https://img.shields.io/badge/Development-Feedback-informational?style=flat&logo=github&logoColor=white&color=3cad0f)](https://github.com/DevLUp-Inc/Feedback)
@@ -29,5 +29,11 @@ We want to help our members meet their goals, whether thats improving at their f
 This is where we really shine. The website you're on will soon host a wiki of sorts allowing users to browse, aggregate, share and create educational content for eachother. Our past workshops can be found on youtube, including a beginner-sessions playlist. We also understand how critical discipline and habit are to one's education - we motivate our members to post daily updates on their personal projects directly from our discord, receiving feedback and points to stand out through our bot. 
 
 [//]: ## (Behind The Scenes, information on the org's story as well as just putting the credits section here.)
+
+## Where to find us
+
+Discord: https://devlup.org/r/discord
+
+Website: https://devlup.org/
 
 Email: contact@devlup.org
