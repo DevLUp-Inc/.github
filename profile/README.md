@@ -1,10 +1,32 @@
 # Welcome to DevLUp!
 
-[![DevLUp Discord](https://img.shields.io/discord/521957275204845578?color=7289dA&label=DevLUp%20Discord&logo=discord&logoColor=white)](https://discord.gg/3pmt6vCKeX)
-[![Super Florida Man](https://img.shields.io/badge/Club_Wide_Game-Super_Florida_Man-informational?style=flat&logo=unreal-engine&logoColor=white&color=f05032)](https://github.com/UF-GDA/Super-Florida-Man)
-[![Development Feedback](https://img.shields.io/badge/Development-Feedback-informational?style=flat&logo=github&logoColor=white&color=3cad0f)](https://github.com/UF-GDA/Feedback)
+[![DevLUp Discord](https://img.shields.io/discord/521957275204845578?color=7289dA&label=DevLUp%20UF%20Discord&logo=discord&logoColor=white)]([https://discord.gg/3pmt6vCKeX](https://devlup.org/r/discord))
+[![Development Feedback](https://img.shields.io/badge/Development-Feedback-informational?style=flat&logo=github&logoColor=white&color=3cad0f)](https://github.com/DevLUp-Inc/Feedback)
 
-We are DevLUp! A group operating largely out of the University of Florida committed to education and career development related to game dev!
+Previously known as the UF Game Developer's Association (UF GDA), DevLUp was created by University of Florida students interested in game development. Since around December 2020, we've grown from **100** to **700 members.**
 
-On Github we currently are developing Super Florida Man, a 3D Platformer/Collectathon developed in Unreal Engine.
-We are also developing a website, Discord bot, and web API.
+On Github, we are developing our website and a discord bot that our members can use. Any feedback can be submitted here: https://github.com/DevLUp-Inc/Feedback
+
+## Our Purpose
+![Images](https://media.discordapp.net/attachments/922216869312729088/1005218402710863993/unknown.png?width=600&height=450) ![Images](https://media.discordapp.net/attachments/922216869312729088/1005216946809217165/unknown.png?width=341&height=455)
+
+### Community
+
+The backbone of DevLUp is the supportive and interactive online community we foster. You can find mentors, feedback, opportunities, and friends that share the common interest in game development. We host fun social events too, including but not limited to...
+* Semesterly potlucks
+* Semesterly game nights featuring
+  * Rocket League
+  * MC Hunger games
+  * Splitgate
+  * and more... 
+
+### Development
+
+We want to help our members meet their goals, whether thats improving at their favorite hobby or securing a career involved in computer graphics, game development, or digital art. To that end we provide constant opportunities to build a portfolio - game jams, club-wide projects, and an emerging apply-to-enter preprofessional branch that operates at an internship level.
+
+### Education
+This is where we really shine. The website you're on will soon host a wiki of sorts allowing users to browse, aggregate, share and create educational content for eachother. Our past workshops can be found on youtube, including a beginner-sessions playlist. We also understand how critical discipline and habit are to one's education - we motivate our members to post daily updates on their personal projects directly from our discord, receiving feedback and points to stand out through our bot. 
+
+[//]: ## (Behind The Scenes, information on the org's story as well as just putting the credits section here.)
+
+Email: contact@devlup.org
