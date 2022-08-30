@@ -1,6 +1,6 @@
 # We are DevLUp!
 
-[![DevLUp Discord](https://img.shields.io/discord/521957275204845578?color=7289dA&label=DevLUp%20UF%20Discord&logo=discord&logoColor=white)]([https://discord.gg/3pmt6vCKeX](https://devlup.org/r/discord))
+[![DevLUp Discord](https://img.shields.io/discord/521957275204845578?color=7289dA&label=DevLUp%20UF%20Discord&logo=discord&logoColor=white)](https://devlup.org/r/discord)
 [![Development Feedback](https://img.shields.io/badge/Development-Feedback-informational?style=flat&logo=github&logoColor=white&color=3cad0f)](https://github.com/DevLUp-Inc/Feedback)
 
 Previously known as the UF Game Developer's Association (UF GDA), DevLUp was created by University of Florida students interested in game development. Since around December 2020, we've grown from **100** to **700 members.**
