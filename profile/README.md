@@ -34,6 +34,6 @@ This is where we really shine. The website you're on will soon host a wiki of so
 
 Discord: https://devlup.org/r/discord
 
-Website: https://devlup.org/
+Website: https://devlup.org
 
 Email: contact@devlup.org
