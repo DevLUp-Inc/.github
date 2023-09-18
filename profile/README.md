@@ -1,39 +1,56 @@
 # We are DevLUp!
 
-[![DevLUp Discord](https://img.shields.io/discord/521957275204845578?color=7289dA&label=DevLUp%20UF%20Discord&logo=discord&logoColor=white)](https://devlup.org/r/discord)
-[![Development Feedback](https://img.shields.io/badge/Development-Feedback-informational?style=flat&logo=github&logoColor=white&color=3cad0f)](https://github.com/DevLUp-Inc/Feedback)
+Previously known as the UF Game Developer's Association (UF GDA), DevLUp is a non-profit student organization that works to bring game development to schools across Florida.
 
-Previously known as the UF Game Developer's Association (UF GDA), DevLUp was created by University of Florida students interested in game development. Since around December 2020, we've grown from **100** to **700 members.**
+### Join our discord!
 
-On Github, we are developing our website and a discord bot that our members can use. Any feedback can be submitted here: https://github.com/DevLUp-Inc/Feedback
+We have a main headquarters discord where all of our branches come together as one, for DevLUp-wide events.
 
-## Our Purpose
+- Headquarters - DevLUp HQ: https://discord.gg/QV8Pmznt55
 
-![Images](https://user-images.githubusercontent.com/42710136/189031492-a83da07d-fa9d-44f7-a0ce-0580abab5edc.png)
+Additionally, we have servers for each of our larger branches! We recommend joining both HQ and your school specific server. A more complete list is available on our HQ server.
+
+- University of Florida - DevLUp UF: https://discord.gg/CHzUJ5xu5N
+
+- Florida State University - DevLUp FSU: https://discord.gg/jehBXnYVpR
+
+- Florida Institute of Technology - DevLUp FIT: https://discord.gg/udQ9GnuWkA
+
+Smaller branches are part of our HQ server and if you don't see your school listed, reach out to us and we'll work with you to start a branch!
+
+### What do we offer?
+
+At DevLUp, we offer both DevLUp-wide and branch-specific events. Additionally, we have a custom discord bot that we are constantly working on.
+
+At DevLUp HQ (DevLUp-wide), we offer:
+
+- **Guest Speakers**: We aim to bring at least 2 guest speakers per semester to talk to the DevLUp community. Ask your burning questions about game dev to industry professionals!
+
+- **Dev Hour**: A daily event where everyone is invited to participate. Dev Hour is meant to be a place to work on your game dev project, school work, or simply chat with other developers from DevLUp's community.
+
+- **Showoff**: Want to showoff or talk about your work with other DevLUp members? Showoff your work using the discord bot! Your project will also appear on our website!
+
+- **Points**: A game developer community wouldn't be complete without a point system! Earn points as you participate in Dev Hour and Showoff!
+
+For branch-specific events, please join the corresponding branch discord for your school!
 
 ### Community
 
-The backbone of DevLUp is the supportive and interactive online community we foster. You can find mentors, feedback, opportunities, and friends that share the common interest in game development. We host fun social events too, including but not limited to...
-* Semesterly potlucks
-* Semesterly game nights featuring
-  * Rocket League
-  * MC Hunger games
-  * Splitgate
-  * and more... 
+The backbone of DevLUp is the supportive and interactive online community we foster. You can find mentors, feedback, opportunities, and friends that share the common interest in game development. We also host social events like game nights. Whether you're here to learn, make friends, or have fun, you'll fit right in!
 
 ### Development
 
 We want to help our members meet their goals, whether thats improving at their favorite hobby or securing a career involved in computer graphics, game development, or digital art. To that end we provide constant opportunities to build a portfolio - game jams, club-wide projects, and an emerging apply-to-enter preprofessional branch that operates at an internship level.
 
 ### Education
-This is where we really shine. The website you're on will soon host a wiki of sorts allowing users to browse, aggregate, share and create educational content for eachother. Our past workshops can be found on youtube, including a beginner-sessions playlist. We also understand how critical discipline and habit are to one's education - we motivate our members to post daily updates on their personal projects directly from our discord, receiving feedback and points to stand out through our bot. 
+
+This is where we really shine. Our past workshops can be found on [YouTube](https://www.youtube.com/@devlup-inc), including a beginner-sessions playlist. We also understand how critical discipline and habit are to one's education — we motivate our members to post daily updates on their personal projects directly from our 
+discord, receiving feedback and points to stand out through our bot. 
 
 [//]: ## (Behind The Scenes, information on the org's story as well as just putting the credits section here.)
 
-## Where to find us
-
-Discord: https://devlup.org/r/discord
-
-Website: https://devlup.org
+## Contact
 
 Email: contact@devlup.org
+
+HQ Discord: https://discord.gg/QV8Pmznt55
